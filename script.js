@@ -101,9 +101,7 @@ In that moment, I snapped. I did something really horrible to you. Rey, I wasnâ€
 I never intended for your parents to know about it. It was a stupid mistake, probably one of the biggest mistakes of my life. ðŸ’”`,
   },
 
-  { title: "Card 9", text: "The quiet moments hold the truth." },
-
-  { title: "Card 10", text: "And eventually the rain stops." },
+  { title: "Call me", text: "please" },
 ];
 
 let currentIndex = 0;
